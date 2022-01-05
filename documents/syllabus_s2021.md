@@ -31,7 +31,7 @@ With the advent of big data across a number of sub-disciplines within biology, t
 This course will be held in person unless otherwise specified. 
 
 
-### Course Schedule
+## Course Schedule
 
 A detailed schedule the course can be found here:
 
