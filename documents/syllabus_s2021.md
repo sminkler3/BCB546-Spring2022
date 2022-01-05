@@ -1,4 +1,4 @@
-# BCB/EEOB 546X, Computational Skills for Biological Data<br> Spring 2022 
+# BCB/EEOB 546, Computational Skills for Biological Data<br> Spring 2022 
 ### Wednesday/Friday, 1:10-2:30p.m., Bessey Hall 334
 
 ## Course Website
