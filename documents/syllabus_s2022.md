@@ -11,8 +11,8 @@ The course website contains links to all of the information you will need to nav
 
 We will also provide some information via the course Canvas page (for content that cannot be shared publicly). 
 
-[https://canvas.iastate.edu](https://canvas.iastate.edu) 
-<!-- need to EDIT -->
+[https://canvas.iastate.edu/courses/89022](https://canvas.iastate.edu/courses/89022) 
+
 
 ## Instructors
 
