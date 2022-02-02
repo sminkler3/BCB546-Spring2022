@@ -15,7 +15,7 @@ The password for hpc-class.its.iastate.edu is the same as that for CyMail.
 To add the `SNPs` folder necessary for this exercise to hpc-class, let's clone the course repository in your directory:
 
 ```
-git clone https://github.com/EEOB-BioData/BCB546-Spring2021
+git clone https://github.com/EEOB-BioData/BCB546-Spring2022
 ```
 
 Now that you have the data you need in hpc-class, let's do something with it!
