@@ -67,7 +67,7 @@ Data extraction for final data files
 10 files (1 for each chromosome) with SNPs ordered based on increasing position values and with missing data encoded by this symbol: ?
 •	Showing for maize data, but also performed in teosinte data. The code I used for chromosome 1 can be seen below, but this same code was repeated for all 10 chromosomes. 
 $ sort -k2,2n -k3,3n Maize.txt > Maize_sort.txt 
-$ awk '{ if ($2 == 1 && $3 !~ /multiple/) { print } }' MAIZE_sort.txt > maize_chromo_01_inc_headless.txt
+$ awk '{ if ($2 == 1 && $3 !~ /multiple/) { print } }' Maize_sort.txt > maize_chromo_01_inc_headless.txt
 $ cat maize_header.txt maize_chromo_01_inc_headless.txt > maize_chromo_01_increasing.txt
 
 10 files (1 for each chromosome) with SNPs ordered based on decreasing position values and with missing data encoded by this symbol: -
